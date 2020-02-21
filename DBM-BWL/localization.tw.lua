@@ -120,7 +120,7 @@ L:SetOptionLocalization{
 	WarnClassCall		= "提示職業點名"
 }
 L:SetMiscLocalization{
-	YellP1		= "讓賽事開始吧",
+	YellP1		= "讓賽事開始吧！",
 	YellP2		= "幹得好",
 	YellP3		= "不可能",
 	YellShaman	= "薩滿",
